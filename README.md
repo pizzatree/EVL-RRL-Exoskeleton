@@ -68,7 +68,9 @@ Operator can open up CSV's in the initially provided format and .vsk's for ascer
 *Tooltips*  
 Highlighting a marker will bring up the marker's name  
 
-- Live Data Streaming through the [Vicon Unity Plugin](#software-and-plugin-requirements)  
+![Live Context](README/gifs/demo_livecontext.gif)  
+*Live Streaming*  
+The surrounding context using the [Vicon DataStream SDK](#software-and-plugin-requirements)  
 
 ### Next Steps  
 
